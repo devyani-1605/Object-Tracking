@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: object_tracking
+Version: 0.0.0
+Summary: Object detection and tracking with YOLOv5 and RealSense in ROS2
+Maintainer: devyani
+Maintainer-email: devyania161@gmail.com
+License: Apache 2.0
+Requires-Dist: setuptools

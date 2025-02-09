@@ -1,0 +1,27 @@
+[1.209s] Invoking command in '/home/devyani/ROS2_WS/src/object_tracking': PYTHONPATH=/home/devyani/ROS2_WS/build/object_tracking/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devyani/ROS2_WS/install/object_tracking/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_tracking build --build-base /home/devyani/ROS2_WS/build/object_tracking/build install --record /home/devyani/ROS2_WS/build/object_tracking/install.log --single-version-externally-managed install_data
+[1.548s] running egg_info
+[1.570s] writing ../../build/object_tracking/object_tracking.egg-info/PKG-INFO
+[1.571s] writing dependency_links to ../../build/object_tracking/object_tracking.egg-info/dependency_links.txt
+[1.571s] writing entry points to ../../build/object_tracking/object_tracking.egg-info/entry_points.txt
+[1.571s] writing requirements to ../../build/object_tracking/object_tracking.egg-info/requires.txt
+[1.572s] writing top-level names to ../../build/object_tracking/object_tracking.egg-info/top_level.txt
+[1.618s] reading manifest file '../../build/object_tracking/object_tracking.egg-info/SOURCES.txt'
+[1.619s] writing manifest file '../../build/object_tracking/object_tracking.egg-info/SOURCES.txt'
+[1.619s] running build
+[1.619s] running build_py
+[1.619s] copying object_tracking/Publisher.py -> /home/devyani/ROS2_WS/build/object_tracking/build/lib/object_tracking
+[1.619s] copying object_tracking/__init__.py -> /home/devyani/ROS2_WS/build/object_tracking/build/lib/object_tracking
+[1.620s] running install
+[1.626s] running install_lib
+[1.650s] copying /home/devyani/ROS2_WS/build/object_tracking/build/lib/object_tracking/Publisher.py -> /home/devyani/ROS2_WS/install/object_tracking/lib/python3.10/site-packages/object_tracking
+[1.650s] byte-compiling /home/devyani/ROS2_WS/install/object_tracking/lib/python3.10/site-packages/object_tracking/Publisher.py to Publisher.cpython-310.pyc
+[1.652s] running install_data
+[1.652s] copying resource/object_tracking -> /home/devyani/ROS2_WS/install/object_tracking/share/ament_index/resource_index/packages
+[1.652s] copying package.xml -> /home/devyani/ROS2_WS/install/object_tracking/share/object_tracking
+[1.652s] running install_egg_info
+[1.677s] removing '/home/devyani/ROS2_WS/install/object_tracking/lib/python3.10/site-packages/object_tracking-0.0.0-py3.10.egg-info' (and everything under it)
+[1.677s] Copying ../../build/object_tracking/object_tracking.egg-info to /home/devyani/ROS2_WS/install/object_tracking/lib/python3.10/site-packages/object_tracking-0.0.0-py3.10.egg-info
+[1.678s] running install_scripts
+[1.881s] Installing Publisher script to /home/devyani/ROS2_WS/install/object_tracking/lib/object_tracking
+[1.882s] writing list of installed files to '/home/devyani/ROS2_WS/build/object_tracking/install.log'
+[1.917s] Invoked command in '/home/devyani/ROS2_WS/src/object_tracking' returned '0': PYTHONPATH=/home/devyani/ROS2_WS/build/object_tracking/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devyani/ROS2_WS/install/object_tracking/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_tracking build --build-base /home/devyani/ROS2_WS/build/object_tracking/build install --record /home/devyani/ROS2_WS/build/object_tracking/install.log --single-version-externally-managed install_data

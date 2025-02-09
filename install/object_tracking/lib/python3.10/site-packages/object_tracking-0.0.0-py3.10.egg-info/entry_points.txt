@@ -1,0 +1,3 @@
+[console_scripts]
+Publisher = object_tracking.Publisher:main
+Subscriber = object_tracking.Subscriber:main
